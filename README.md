@@ -17,7 +17,6 @@ The Gemini Clone project aims to replicate the functionalities of the Google Gem
 
 - **Languages:** HTML, CSS, JavaScript
 - **Library:** ReactJS
-- **Framework:** Bootstrap
 
 ## 📬 Contact Me
 
